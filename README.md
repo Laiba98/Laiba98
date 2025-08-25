@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Laiba</h1>
-<h3 align="center">🔭 I’m working on building my skills as a full-stack developer, focusing on HTML, CSS, JavaScript, and React. 👯 I’m looking to collaborate on Web development projects and learning opportunities that will help me grow as a full-stack developer. 🤝 I’m seeking help improving my understanding of back-end development and more advanced React features. 🌱 I’m currently learning Full-stack development, with a focus on React and other modern JavaScript frameworks. 💬 Ask me about Front-end development, using HTML/CSS/JavaScript, and navigating the learning journey as a tech student. ⚡ Fun fact: I'm a passionate coder and a dedicated student pursuing a degree in Business Information Technology, where I blend technology and business.</h3>
+<h3 align="center">🔭 I’m working on building my skills as a full-stack developer, f JavaScript, Typescript Python. 👯 I’m looking to collaborate on Web development projects and learning opportunities that will help me grow as a full-stack developer. 🤝 I’m seeking help improving my understanding of back-end development and more advanced  features. 🌱 I’m currently learning Full-stack development, with a focus on React and other modern JavaScript frameworks. 💬 Ask me about Front-end development, using JavaScript, and navigating the learning journey as a tech student. ⚡ Fun fact: I'm a passionate coder and a dedicated student pursuing a degree in Business Information Technology, where I blend technology and business.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laiba98&label=Profile%20views&color=0e75b6&style=flat" alt="laiba98" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Full-stack development, particularly React and other modern JavaScript frameworks.**
 
-- 💬 💬 Ask me about **front-end development, using HTML/CSS/JavaScript, and navigating the learning journey as a tech student.**
+- 💬 💬 Ask me about **front-end development, Back-end, using JavaScript, and navigating the learning journey as a tech student.**
 
 - ⚡ Fun fact Fun fact: **I'm a passionate coder and a dedicated student pursuing Business Information Technology, blending tech and business.**
 
